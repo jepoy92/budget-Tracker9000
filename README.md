@@ -27,9 +27,11 @@ The app can be used through your browser or installed onto your desktop as a pro
 When the user fist opens the app they can enter the type of transaction they would like to add or subtract using the form located at the top of the app. 
 
 ![Image of input form located at top of the page](./assets/img1.PNG)
-The transactions will then be displayed in a convenient graph to show  
+The transactions will then be displayed in a convenient graph to show the transactions you've made over time.
 
 ![Image of inputted transactions displayed on the transaction chart and linegraph](./assets/img2.PNG)
+
+When the user goes offline, any transactions added to the application will update when they come back online.
 
 ## License
 
