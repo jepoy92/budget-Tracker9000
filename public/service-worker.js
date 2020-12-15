@@ -8,8 +8,9 @@ const iconFiles = iconSizes.map(
 
 const FILES_TO_CACHE = [
     "/",
-    "/db.js",
+    "/index.html",
     "/index.js",
+    "/db.js",
     "/styles.css",
     "/manifest.webmanifest",
 ].concat(iconFiles);
