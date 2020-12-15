@@ -35,7 +35,7 @@ The transactions will then be displayed in a convenient graph to show
 
   For more information on the license used, please click on the link below:
 
-- [License] (https://opensource.org/licenses/GPL-3.0)[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+- [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
 
 
