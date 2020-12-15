@@ -1,4 +1,9 @@
-let db;
+let db =
+window.indexedDB ||
+window.mozIndexedDB ||
+window.webkitIndexedDB ||
+window.msIndexedDB ||
+window.shimIndexedDB;
 
 // Creates a new db request for the database
 const request = indexedDB.open("budget", 1);
