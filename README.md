@@ -1,7 +1,7 @@
 
 # Budget-Tracker 9000
 
-![Link to working application](https://budget-tracker9000.herokuapp.com/)
+[Link to working application](https://budget-tracker9000.herokuapp.com/)
 
 ## Description 
 
